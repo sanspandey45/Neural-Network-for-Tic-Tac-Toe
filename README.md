@@ -10,9 +10,9 @@ Second parameters of NeuralNet constructor changed to accept url instead of dire
 
 ### Libraries used:
 numpy
-pandas
-scikit-learn, MLPClassifier
-matplotlib
+<br />pandas
+<br />scikit-learn and MLPClassifier
+<br />matplotlib
 
 
 ### Building and Running
